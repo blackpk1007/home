@@ -1,3 +1,4 @@
+<%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8" %>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -40,8 +41,8 @@ https://templatemo.com/tm-531-reflux
               <a href="#"><img src="assets/images/author-image.jpg" alt="" /></a>
             </div>
             <div class="author-content">
-              <h4>Reflux Me</h4>
-              <span>Web Designer</span>
+              <h4>전영수</h4>
+              <span>백엔드 개발자</span>
             </div>
             <nav class="main-nav" role="navigation">
               <ul class="main-menu">
@@ -54,9 +55,7 @@ https://templatemo.com/tm-531-reflux
             <div class="social-network">
               <ul class="soial-icons">
                 <li>
-                  <a href="https://fb.com/templatemo"
-                    ><i class="fa fa-facebook"></i
-                  ></a>
+                  <a href="#"><i class="fa fa-facebook"></i></a>
                 </li>
                 <li>
                   <a href="#"><i class="fa fa-twitter"></i></a>
@@ -85,8 +84,7 @@ https://templatemo.com/tm-531-reflux
             <h2>About Me</h2>
             <div class="line-dec"></div>
             <span
-              >This is a Bootstrap v4.2.1 CSS Template for you. Edit and use
-              this layout for your site. Updated on 21 May 2019 for repeated main menu HTML code.</span
+              >안녕하세요 백엔드 개발자 전영수 입니다. 저는 자바, 자바스크립트 위주로 사용중입니다.</span
             >
           </div>
           <div class="left-image-post">
