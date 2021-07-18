@@ -42,7 +42,7 @@ https://templatemo.com/tm-531-reflux
             </div>
             <div class="author-content">
               <h4>전영수</h4>
-              <span>백엔드 개발자</span>
+              <span>취준생</span>
             </div>
             <nav class="main-nav" role="navigation">
               <ul class="main-menu">
@@ -84,7 +84,7 @@ https://templatemo.com/tm-531-reflux
             <h2>About Me</h2>
             <div class="line-dec"></div>
             <span
-              >안녕하세요 백엔드 개발자 전영수 입니다. 저는 자바, 자바스크립트 위주로 사용중입니다.</span
+              >안녕하세요 취준생 전영수 입니다. 저는 자바, 자바스크립트 위주로 사용중입니다.</span
             >
           </div>
           <div class="left-image-post">
