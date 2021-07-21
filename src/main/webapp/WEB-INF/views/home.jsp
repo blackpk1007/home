@@ -38,7 +38,7 @@ https://templatemo.com/tm-531-reflux
           <i class="fa fa-times" id="menu-close"></i>
           <div class="container">
             <div class="image">
-              <a href="#"><img src="assets/images/author-image.jpg" alt="" /></a>
+              <a href="#">></a>
             </div>
             <div class="author-content">
               <h4>전영수</h4>
@@ -49,7 +49,6 @@ https://templatemo.com/tm-531-reflux
                 <li><a href="#section1">About Me</a></li>
                 <li><a href="#section2">What I’m good at</a></li>
                 <li><a href="#section3">My Work</a></li>
-                <li><a href="#section4">Contact Me</a></li>
               </ul>
             </nav>
             <div class="social-network">
