@@ -95,13 +95,10 @@ https://templatemo.com/tm-531-reflux
               </div>
               <div class="col-md-6">
                 <div class="right-text">
-                  <h4>Reflux HTML CSS Template</h4>
+                  <h4>사용하는 언어</h4>
                   <p>
-                    Donec tristique feugiat lacus, at sollicitudin nunc euismod
-                    sed. Mauris viverra, erat non sagittis gravida, elit dui
-                    mollis ante, sit amet eleifend purus ligula eget eros. Sed
-                    tincidunt quam vitae neque pharetra dignissim eget ut
-                    libero.
+                   JAVA, JAVAscript, JS를 사용합니다.
+                   
                   </p>
                   <div class="white-button">
                     <a href="#">Read More</a>
