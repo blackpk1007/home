@@ -83,7 +83,10 @@ https://templatemo.com/tm-531-reflux
             <h2>About Me</h2>
             <div class="line-dec"></div>
             <span
-              >안녕하세요 취준생 전영수 입니다. 저는 자바, 자바스크립트 위주로 사용중입니다.</span
+              >안녕하세요 취준생 전영수 입니다. 나이는 27살이고 자바, 자바스크립트 위주로 사용중입니다.
+                           저는 백엔드 개발을 하고 있으며 
+                           지금보다 더 나은 결과를 가져오기 위해 
+                           새로운 것들을 많이 접하고 배우고 있습니다.</span
             >
           </div>
           <div class="left-image-post">
