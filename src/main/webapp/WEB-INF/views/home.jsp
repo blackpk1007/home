@@ -200,12 +200,11 @@ https://templatemo.com/tm-531-reflux
       <section class="section my-work" data-section="section3">
         <div class="container">
           <div class="section-heading">
-            <h2>My Work</h2>
+            <h2>프로젝트</h2>
             <div class="line-dec"></div>
-            <span
-              >Aenean sollicitudin ex mauris, lobortis lobortis diam euismod sit
-              amet. Duis ac elit vulputate, lobortis arcu quis, vehicula
-              mauris.</span
+            <span>
+       			
+            </span
             >
           </div>
           <div class="row">
