@@ -103,9 +103,6 @@ https://templatemo.com/tm-531-reflux
                    JAVA, JAVAscript, JS를 사용합니다.
                    
                   </p>
-                  <div class="white-button">
-                    <a href="#">Read More</a>
-                  </div>
                 </div>
               </div>
             </div>
