@@ -156,7 +156,7 @@ https://templatemo.com/tm-531-reflux
                   eros.
                 </p>
               </div>
-            </div>
+            </div> 
             <div class="col-md-6">
               <div class="service-item">
                 <div class="second-service-icon service-icon"></div>
