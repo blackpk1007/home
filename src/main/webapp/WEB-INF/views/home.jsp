@@ -267,7 +267,7 @@ https://templatemo.com/tm-531-reflux
                       src="assets/images/portfolio-02.jpg"
                       alt="sq-sample26"
                     />
-                    <figcaption>
+                    <figcaption> 
                       <a
                         href="assets/images/portfolio-02.jpg"
                         data-lightbox="image-1"
