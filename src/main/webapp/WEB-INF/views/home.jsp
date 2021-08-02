@@ -98,7 +98,7 @@ https://templatemo.com/tm-531-reflux
               </div>
               <div class="col-md-6">
                 <div class="right-text">
-                  <h4>사용하는 언어</h4>
+                  <h4>취미</h4>
                   <p>
                    JAVA, JAVAscript, JS를 사용합니다.
                    
@@ -137,12 +137,10 @@ https://templatemo.com/tm-531-reflux
       <section class="section my-services" data-section="section2">
         <div class="container">
           <div class="section-heading">
-            <h2>What I’m good at?</h2>
+            <h2>사용하는 언어</h2>
             <div class="line-dec"></div>
-            <span
-              >Curabitur leo felis, rutrum vitae varius eu, malesuada a tortor.
-              Vestibulum congue leo et tellus aliquam, eu viverra nulla semper.
-              Nullam eu faucibus diam. Donec eget massa ante.</span
+            <span>
+            JAVA, JAVAscript, JS를 사용합니다.</span
             >
           </div>
           <div class="row">
