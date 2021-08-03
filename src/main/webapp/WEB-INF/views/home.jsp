@@ -141,7 +141,7 @@ https://templatemo.com/tm-531-reflux
             <div class="line-dec"></div>
             <span>
             JAVA, JAVAscript, JS를 사용합니다.</span
-            >
+            > 
           </div>
           <div class="row">
             <div class="col-md-6">
