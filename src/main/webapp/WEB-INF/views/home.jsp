@@ -165,7 +165,7 @@ https://templatemo.com/tm-531-reflux
                   faucibus purus mollis.
                 </p>
               </div>
-            </div>
+            </div> 
             <div class="col-md-6">
               <div class="service-item">
                 <div class="third-service-icon service-icon"></div>
