@@ -297,7 +297,7 @@ https://templatemo.com/tm-531-reflux
                   </figure>
                 </div>
 	
-                <div class="isotope-item" data-type="people">
+                <div class="isotope-item" data-type="people"> 
                   <figure class="snip1321">
                     <img
                       src="assets/images/portfolio-04.jpg"
