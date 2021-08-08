@@ -332,9 +332,9 @@ https://templatemo.com/tm-531-reflux
                       <h4>Fifth Awesome</h4>
                       <span>Ut sollicitudin risus</span>
                     </figcaption>
-                  </figure>
+                  </figure> 
                 </div>
-
+  
                 <div class="isotope-item" data-type="animals">
                   <figure class="snip1321">
                     <img
