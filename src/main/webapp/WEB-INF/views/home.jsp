@@ -343,7 +343,7 @@ https://templatemo.com/tm-531-reflux
                     />
                     <figcaption>
                       <a
-                        href="assets/images/portfolio-06.jpg"
+                        href="assets/images/portfolio-06.jpg" 
                         data-lightbox="image-1"
                         data-title="Caption"
                         ><i class="fa fa-search"></i
