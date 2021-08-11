@@ -333,7 +333,7 @@ https://templatemo.com/tm-531-reflux
                       <span>Ut sollicitudin risus</span>
                     </figcaption>
                   </figure> 
-                </div>
+                </div> 
   
                 <div class="isotope-item" data-type="animals">
                   <figure class="snip1321">
