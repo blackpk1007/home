@@ -46,9 +46,9 @@ https://templatemo.com/tm-531-reflux
             </div>
             <nav class="main-nav" role="navigation">
               <ul class="main-menu">
-                <li><a href="#section1">About Me</a></li>
-                <li><a href="#section2">What I’m good at</a></li>
-                <li><a href="#section3">My Work</a></li>
+                <li><a href="#section1">소개</a></li>
+                <li><a href="#section2">사용 언어</a></li>
+                <li><a href="#section3">프로젝트</a></li>
               </ul>
             </nav>
             <div class="social-network">
@@ -139,15 +139,13 @@ https://templatemo.com/tm-531-reflux
           <div class="section-heading">
             <h2>사용하는 언어</h2>
             <div class="line-dec"></div>
-            <span>
-            JAVA, JAVAscript, JS를 사용합니다.</span
-            > 
+            <span></span> 
           </div>
           <div class="row">
             <div class="col-md-6">
               <div class="service-item">
                 <div class="first-service-icon service-icon"></div>
-                <h4>HTML5 &amp; CSS3</h4>
+                <h4>Java</h4>
                 <p>
                   Phasellus non convallis dolor. Integer tempor hendrerit arcu
                   at bibendum. Sed ac ante non metus vehicula congue quis eget
@@ -158,7 +156,7 @@ https://templatemo.com/tm-531-reflux
             <div class="col-md-6">
               <div class="service-item">
                 <div class="second-service-icon service-icon"></div>
-                <h4>Creative Ideas</h4>
+                <h4>JavaScript</h4>
                 <p>
                   Proin lacus massa, eleifend sed fermentum in, dignissim vel
                   metus. Nunc accumsan leo nec felis porttitor, ultricies
@@ -169,7 +167,7 @@ https://templatemo.com/tm-531-reflux
             <div class="col-md-6">
               <div class="service-item">
                 <div class="third-service-icon service-icon"></div>
-                <h4>Easy Customize</h4>
+                <h4>JS</h4>
                 <p>
                   Integer suscipit condimentum aliquet. Nam quis risus metus.
                   Nullam faucibus quam eget arcu pretium tincidunt. Nam libero
@@ -180,7 +178,7 @@ https://templatemo.com/tm-531-reflux
             <div class="col-md-6">
               <div class="service-item">
                 <div class="fourth-service-icon service-icon"></div>
-                <h4>Admin Dashboard</h4>
+                <h4>Oracle</h4>
                 <p>
                   Vivamus et dui a massa venenatis fringilla. Proin lacus massa,
                   eleifend sed fermentum in, dignissim vel metus. Nunc accumsan
